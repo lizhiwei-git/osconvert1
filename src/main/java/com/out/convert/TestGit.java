@@ -9,6 +9,7 @@ public class TestGit {
         System.out.println("test");
         System.out.println("test1");
         System.out.println("push");
+        System.out.println("pull1");
 
     }
 }
